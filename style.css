@@ -1,0 +1,23 @@
+p{
+    color:gray; 
+    background-color: ivory;
+    text-align: center;
+    font-family: cursive, monospace;
+    text-transform: capitalize
+}
+
+.yellow{
+    background: yellow;
+}
+
+.blue{
+    background: blue;
+    color: white;
+}
+
+img{
+    width:250px;
+    width: 10vh, 100vw --
+    viewport height
+    viewport width: 
+}
